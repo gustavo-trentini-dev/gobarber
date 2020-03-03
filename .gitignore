@@ -1,2 +1,5 @@
 node_modules/
+config/
+yarn.lock
 .env
+yarn-error.log
